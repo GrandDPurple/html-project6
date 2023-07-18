@@ -1,0 +1,12 @@
+html{
+    background-color: black;
+}
+.main{ 
+    border: 5px solid white;
+    text-align: center;
+width: 45%;
+height: 325px;
+margin-top: 85px;
+margin-left: 200px;
+
+}
